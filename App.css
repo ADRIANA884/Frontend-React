@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  gap: 2rem;
+  background-color: lightpink;
+  color: rgb(134, 6, 109);
+  font-weight: bolder;
+  font-size: larger;
+}
